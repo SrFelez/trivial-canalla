@@ -1,0 +1,1 @@
+{ "name": "trivial-canalla", "version": "1.0.0", "scripts": { "start": "vite", "build": "vite build" } }

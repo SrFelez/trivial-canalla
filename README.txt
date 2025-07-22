@@ -1,0 +1,1 @@
+Proyecto Trivial Canalla en React. Sustituye claves Firebase en firebaseConfig.js y sube a Vercel.
